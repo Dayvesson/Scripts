@@ -1,6 +1,9 @@
 # Scripts
+
 #CÁLCULO DO HASH RATE DA REDE BITCOIN
+
 #import requests
+
 ==================================================
 CÁLCULO DO HASH RATE DA REDE BITCOIN
 ==================================================
@@ -11,10 +14,15 @@ Hash Rate Bruto: 5.94e+20 H/s
 ==================================================
 
 #Instale a biblioteca requests (se ainda não tiver):
+
 #pip install requests
+
 #Execute o script
+
 #python hashrate_calculator.py
+
 python
+
 def calcular_hash_rate():
     """
    # Calcula o hash rate estimado da rede Bitcoin (em EH/s) com base na dificuldade atual e no tempo médio de bloco.
