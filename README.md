@@ -4,14 +4,14 @@
 
 #import requests
 
-==================================================
-CÁLCULO DO HASH RATE DA REDE BITCOIN
-==================================================
-Dificuldade Atual: 83,126,984,677,668
-Tempo Médio do Bloco: 600.50 segundos
-Hash Rate Estimado: 594.25 EH/s
-Hash Rate Bruto: 5.94e+20 H/s
-==================================================
+
+##CÁLCULO DO HASH RATE DA REDE BITCOIN
+
+#Dificuldade Atual: 83,126,984,677,668
+#Tempo Médio do Bloco: 600.50 segundos
+#Hash Rate Estimado: 594.25 EH/s
+#Hash Rate Bruto: 5.94e+20 H/s
+
 
 #Instale a biblioteca requests (se ainda não tiver):
 
